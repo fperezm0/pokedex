@@ -10,3 +10,5 @@ Diseño atractivo e intuitivo con animaciones fluidas.
 Integración de datos a través de un archivo JSON, sin necesidad de conexión a internet.
 Tecnologías Utilizadas:
 Flutter, Dart, JSON 
+[![Alt text](https://img.youtube.com/vi/r5j2B3QTHV4/0.jpg)](https://www.youtube.com/watch?v=r5j2B3QTHV4)
+https://youtu.be/r5j2B3QTHV4
